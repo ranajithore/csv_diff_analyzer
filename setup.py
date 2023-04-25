@@ -1,3 +1,3 @@
 import pip
 
-pip.main(['install', 'openpyxl', 'xlsxwriter', 'yaspin'])
+pip.main(['install', 'csvkit', 'openpyxl', 'xlsxwriter', 'yaspin'])
